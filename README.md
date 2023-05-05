@@ -1,4 +1,4 @@
-## Salve salve, luis aqui.
+##  👋🏽👋🏽👋🏽 Salve salve, luis aqui.
 
  Software Engineering student at the University of Rio Grande do Norte. Over the past two and a half years, I have been studying programming languages such as Java, Python, C, C++ and JavaScript.
 
