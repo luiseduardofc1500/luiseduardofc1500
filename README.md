@@ -7,11 +7,10 @@
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api?username=luiseduardofc1500&&show_icons=true&theme=dark&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
-</div>  
- 
-![Snake animation](https://github.com/luiseduardofc1500/luiseduardofc1500/blob/output/github-contributuion-grid-snake.svg)
+</div>   
  
  
+  ![Snake animation](https://github.com/luiseduardofc1500/luiseduardofc1500/blob/output/github-contribution-grid-snake.svg)
  
   <h1></h1>
   
@@ -37,3 +36,6 @@
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
   
+  
+ 
+ 
