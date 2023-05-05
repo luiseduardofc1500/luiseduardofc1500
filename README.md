@@ -1,6 +1,8 @@
 ## Salve salve, luis aqui.
 
- Software Engineering student at the University of Rio Grande do Norte since 2019
+ Software Engineering student at the University of Rio Grande do Norte. Over the past two and a half years, I have been studying programming languages such as Java, Python, C, C++ and JavaScript.
+
+  To pursue my passion for web development, I have been exploring various online resources, such as Udemy and Alura, to enhance my knowledge of front-end and back-end development. Moreover, I have been working on several programming projects to strengthen my skills in building scalable and robust web applications. I am determined to become a full-stack developer and am excited about the possibilities that lie ahead in this exciting field."
 
 <div>
   <a href=https://beacons.ai/luiseduardofc1500>
