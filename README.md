@@ -11,9 +11,6 @@
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardofc1500&layout=compact&theme=dark">
 </div>   
  
- 
-  ![Snake animation](https://github.com/luiseduardofc1500/luiseduardofc1500/blob/output/github-contribution-grid-snake.svg)
- 
   <h1></h1>
   
 - 🖥️ Operational systems
